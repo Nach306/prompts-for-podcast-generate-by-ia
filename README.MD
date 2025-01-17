@@ -40,7 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Adobe Premiere](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiyvOei6v2KAxXcH0QIHXdqFxkYABABGgJkeg&co=1&ase=2&gclid=CjwKCAiAnKi8BhB0EiwA58DA4V5CbFc5LfSu1z5zt0hpv5m3xIjvyID527xb1336r3ZB8F6pwBNfmxoCmpQQAvD_BwE&ohost=www.google.com&cid=CAESVeD27cgtKUURQu5jU_J5mivh18WjpqTFbPKJJSm-kSXPxPnd3uQ7BpSEhuslBaXfxdW9t8ti3uN7ANe5nCEHbX8Bp8Xdo6uV6gvPrVT7bn_jp2FBGFI&sig=AOD64_18DPIfzs0DJjJxAmpOTUrMjBm1Zw&q&nis=4&adurl&ved=2ahUKEwist92i6v2KAxWArZUCHYZdMREQ0Qx6BAgPEAE)
 
 ## ✨ Como foi feito ?
 
