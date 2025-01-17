@@ -11,7 +11,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
--[Clique aqui para ouvir](https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4)
+- [Clique aqui para ouvir](https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4)
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
