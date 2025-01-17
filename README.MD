@@ -6,12 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="Clique aqui">
-</a>
-<a href="https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4">
+[Clique aqui para ouvir](https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4)
 
 </p>
 
