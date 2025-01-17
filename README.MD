@@ -9,22 +9,12 @@
 <a href="https://dio.me/">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        alt="Clique aqui">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+<a href="https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4">
+
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
