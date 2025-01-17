@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-[Clique aqui para ouvir](https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4)
+-[Clique aqui para ouvir](https://github.com/Nach306/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST_CARREIRASTEC_NACHALIPEDROSO.mp4)
 
 </p>
 
